@@ -1,0 +1,19 @@
+com/feup/lgpd/match/BuildConfig.java
+ com.feup.lgpd.match.BuildConfig
+com/feup/lgpd/match/MainActivity.java
+ com.feup.lgpd.match.MainActivity
+ com.feup.lgpd.match.MainActivity$1
+com/feup/lgpd/match/ui/building/BuildingViewModel.java
+ com.feup.lgpd.match.ui.building.BuildingViewModel
+com/feup/lgpd/match/ui/more/MoreViewModel.java
+ com.feup.lgpd.match.ui.more.MoreViewModel
+com/feup/lgpd/match/ui/home/HomeViewModel.java
+ com.feup.lgpd.match.ui.home.HomeViewModel
+com/feup/lgpd/match/ui/more/MoreFragment.java
+ com.feup.lgpd.match.ui.more.MoreFragment
+ com.feup.lgpd.match.ui.more.MoreFragment$1
+com/feup/lgpd/match/ui/building/BuildingFragment.java
+ com.feup.lgpd.match.ui.building.BuildingFragment
+ com.feup.lgpd.match.ui.building.BuildingFragment$1
+com/feup/lgpd/match/ui/home/HomeFragment.java
+ com.feup.lgpd.match.ui.home.HomeFragment
